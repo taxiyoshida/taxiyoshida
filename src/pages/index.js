@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <div class="one-third column">
       <ul>
-        <li>Entreprenuer developing high-end tech economy business app "axion"</li>
+        <li>Entreprenuer developing high-end business news app "axion"</li>
         <li>ハイエンドビジネスニュースアプリ "axion" を開発する起業家</li>
       </ul>
 
@@ -38,6 +38,9 @@ const IndexPage = () => (
             <li>2010 News Reporter/ Analyst / PT. BINA KOMUNIKA ASIATAMA(Jakarta, Indonesia)</li>
             <li>2010 Waseda University -  School of Political Science and Economics(bachelor)</li>
             <li>2004 Urawa High School, Saitama</li>
+          </ul>
+          <ul>
+            <li><a href="https://www.linkedin.com/in/takushi-yoshida-a7749961/">Linked in</a></li>
           </ul>
 
         <h2 id="youtube">Youtube</h2>
