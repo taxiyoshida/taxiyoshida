@@ -6,6 +6,7 @@ import Layout from '../components/layout'
 const SecondPage = () => (
   <Layout>
     <h1>Indonesia Age</h1>
+    <p>10/2010~2/2015</p>
     <hr></hr>
 
     <h3>Blog</h3>
@@ -14,8 +15,7 @@ const SecondPage = () => (
     </ul>
     <h3><strong>Media Publishing</strong></h3>
     <ul class="ul2">
-    <li class="li8"><span class="s7">2014.7.22 </span><strong>『</strong><a href="http://d.hatena.ne.jp/keyword/%BD%B5%B4%A9%A5%A8%A5%B3%A5%CE%A5%DF%A5%B9%A5%C8"><span class="s2"><strong>週刊エコノミスト</strong></span></a><strong>』</strong><a href="http://www.slideshare.net/takushiyoshida/201472213p"><span class="s5">13</span></a><span class="s7">,<a href="http://www.slideshare.net/secret/h99NfipQlsLC06"><span class="s2">14,15P</span></a></span>「<a href="http://d.hatena.ne.jp/keyword/%A5%B8%A5%E7%A5%B3%A1%A6%A5%A6%A5%A3%A5%C9%A5%C9"><span class="s2">ジョコ・ウィドド</span></a>氏が勝利宣言、真の民主政時代の到来か」</li>
-    <li class="li4"><span class="s1">2014.11.4</span><span class="s4"><strong>『</strong><a href="http://d.hatena.ne.jp/keyword/%BD%B5%B4%A9%A5%A8%A5%B3%A5%CE%A5%DF%A5%B9%A5%C8"><span class="s2"><strong>週刊エコノミスト</strong></span></a><strong>』</strong><a href="http://www.slideshare.net/takushiyoshida/2014114-46612444"><span class="s2">「インドネシアは目覚めるか　新大統領が抱える</span><span class="s5">5</span><span class="s2">つの課題」</span></a></span></li>
+    <li>2014.7.22 『週刊エコノミスト』13,14,15P「ジョコ・ウィドド氏が勝利宣言、真の民主政時代の到来か」<br />2014.11.4『週刊エコノミスト』「インドネシアは目覚めるか　新大統領が抱える5つの課題」</li>
     </ul>
     <h3>ASEAN/APEC Summit, 2013/10</h3>
     <ul class="ul1">
