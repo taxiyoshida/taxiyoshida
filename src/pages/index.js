@@ -11,6 +11,11 @@ const IndexPage = () => (
         <li>Entreprenuer developing high-end business news app "axion"</li>
         <li>ハイエンドビジネスニュースアプリ "axion" を開発する起業家</li>
       </ul>
+      <p>2010〜15年インドネシア・ジャカルタで政治経済記者。ASEAN、APACの国際会議のほか、同国大統領選の情勢調査とゲーム理論を応用した予測、中央政府予算20％の補助金をめぐる大規模汚職疑惑のスクープなどで活躍。日本とシンガポールの金融機関、証券会社、研究機関等に経済関連レポートを提出。日本の経済紙への寄稿歴もある。15年からは東京で米系デジタルマーケティングメディアDIGIDAYの立ち上げを経験。オークション理論、マッチング、ゲーム理論等の学部卒業後も独学した経済学の知見を活かし米国の知見を日本に紹介。17年9月に退職し起業。動画メディア、暗号通貨メディア、コンテンツプラットフォームの開発を経て定額制ニュースアプリ axion の開発を開始した。</p>
+      <p>I covered economy and politics in Jakarta, Indonesia in 2010-15 as journalist. I Covered international economic corporation at ASEAN and APAC summit.</p>
+      <p>I analized the country&#39;s presidential election in 2014 with  game theory model. I got a series of scoops on large-scale corruption allegations over oil subsidies, 20% of central government budget . I Provided financial reports to financial institutions, securities companies, and  research institute. I also contributed to the Japanese business newspaper and magazine. Since 2015, I joined the team launching the US digital marketing media DIGIDAY in Tokyo. </p>
+      <p>I adopt auction theory, matching theory, and game theory for analising how digital marketing work. I introduced the knowledge of the United States to Japan. </p>
+      <p>I started my own startup in 2017. After developing video media, cryptocurrency based content platform,I started development of axion, subscription news application.</p>
 
       <hr></hr>
       
@@ -28,6 +33,7 @@ const IndexPage = () => (
           <li>We need founding members.please contact me</li>
           <li>創業メンバー募集。連絡ください</li>
         </ul>
+        
 
         <h2 id="profil">Career</h2>
 
